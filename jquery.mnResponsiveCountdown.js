@@ -12,7 +12,7 @@
 * @return Void
 */
 (function($) {
-    $.fn.mnResponsiveCountdown = function(opts) {
+    $.fn.mnResponsiveCountdown = function(options) {
 
 
         /* Defaults */
