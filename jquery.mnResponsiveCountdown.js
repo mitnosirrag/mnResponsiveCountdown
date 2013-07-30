@@ -7,12 +7,12 @@
 * jQuery extension for responsive updating to human readable value of expiration
 * timestamps in data attributes.
 *
-* jQuery( data ).mnResponsiveTimestamps
+* jQuery( data ).mnResponsiveCountdown
 * @param jQuery Object data: Element with data attribute with value of expiration timestamp. 
 * @return Void
 */
 (function($) {
-    $.fn.mnResponsiveTimestamps = function(opts) {
+    $.fn.mnResponsiveCountdown = function(opts) {
 
 
         /* Defaults */
